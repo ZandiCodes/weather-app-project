@@ -1,0 +1,33 @@
+body {
+  background-image: image-set(pexels-ruvim-3560044.jpg);
+}
+h1,
+h2 {
+  color: black;
+  text-align: center;
+}
+#current-temp {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+#search-button {
+  background: blue;
+  color: white;
+}
+#location-button {
+  background: blue;
+  color: white;
+  margin: 0 auto;
+  display: block;
+}
+h3 {
+  font-size: 50px;
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
